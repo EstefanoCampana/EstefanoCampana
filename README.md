@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
   </a>
     <a href="https://www.linkedin.com/in/estefanocampana/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/Social-LinkedIn-blue?style=flat&logo=linkedin">
   </a>
 </p>
 
