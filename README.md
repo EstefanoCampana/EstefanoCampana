@@ -1,7 +1,6 @@
 # Hello! I'm Estefano Campana
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Calgary,%20AB-blue" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-green" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-orange" />
 </p>
@@ -10,7 +9,6 @@
   <a href="mailto:escamu148@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
   </a>
-  <img src="https://img.shields.io/badge/Phone-587--897--6942-lightgrey">
 </p>
 
 ---
@@ -102,7 +100,7 @@ A full-stack web application designed to help users learn Japanese through inter
 **🔗 Links**
 
 - <a href="https://github.com/EstefanoCampana/KantanKanji">
-    <img src="https://img.shields.io/badge/Github-Repo-black">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github">
   </a>
 - <a href="https://kantan-kanji-ten.vercel.app/">
     <img src="https://img.shields.io/badge/Live-Demo-blue">
