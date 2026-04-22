@@ -9,6 +9,9 @@
   <a href="mailto:escamu148@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
   </a>
+    <a href="https://www.linkedin.com/in/estefanocampana/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+  </a>
 </p>
 
 ---
@@ -100,10 +103,10 @@ A full-stack web application designed to help users learn Japanese through inter
 **🔗 Links**
 
 - <a href="https://github.com/EstefanoCampana/KantanKanji">
-    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-black?logo=github">
   </a>
 - <a href="https://kantan-kanji-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-blue">
+    <img src="https://img.shields.io/badge/Live%20Demo-blue">
   </a>
 
 ---
